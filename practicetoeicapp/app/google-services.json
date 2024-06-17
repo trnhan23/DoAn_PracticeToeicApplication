@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "91598019063",
+    "firebase_url": "https://practicetoeicapp-default-rtdb.firebaseio.com",
+    "project_id": "practicetoeicapp",
+    "storage_bucket": "practicetoeicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91598019063:android:23150bf631549f8e1c76f2",
+        "android_client_info": {
+          "package_name": "com.example.practicetoeicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZZ5E2T1uhhgc2rdMQF6PGZNuDuWDqMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91598019063:android:678297008ef1d3aa1c76f2",
+        "android_client_info": {
+          "package_name": "com.example.practicetoeicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZZ5E2T1uhhgc2rdMQF6PGZNuDuWDqMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
